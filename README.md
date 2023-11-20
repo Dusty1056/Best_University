@@ -31,3 +31,5 @@ You can customize this template to suit your needs:
 ## Contributing
 
 If you'd like to contribute to this project, feel free to fork the repository, make improvements, and submit a pull request. Your contributions are welcome!
+Regards
+-Ansh Riyal
